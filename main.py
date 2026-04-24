@@ -8,7 +8,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.storage.memory import MemoryStorage
 
 # --- SOZLAMALAR ---
-TOKEN = os.getenv("BOT_TOKEN")   # 🔐 Render/VPS environment variable
+TOKEN = os.getenv("8787202401:AAFjQIkQrvKiZisdQwd27CuPC3Q7OwCHi3s")   # 🔐 Render/VPS environment variable
 ADMIN_ID = 8588645504
 ADMIN_LINK = "https://t.me/jasurbek_o10"
 
